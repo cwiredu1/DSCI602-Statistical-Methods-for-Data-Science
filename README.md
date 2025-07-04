@@ -1,0 +1,1 @@
+This course was to provides a solid foundation in basic probability, distribution theory, methods of estimation, hypothesis testing and basics of multivariate analysis for data science and related majors at the graduate level.
