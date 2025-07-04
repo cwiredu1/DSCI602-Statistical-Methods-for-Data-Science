@@ -16,4 +16,5 @@ and hypothesis testing
 • Relate multivariate analysis techniques to data science problems
 
 Main Tool
-R statistical software
+
+# # R statistical software
