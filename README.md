@@ -18,3 +18,15 @@ and hypothesis testing
 Main Tool
 
 ## R statistical software
+
+1. Install RStudio directly.  
+
+Both R and RStudio are available for Linux, MacOS, and Windows.
+
+R can be downloaded from The Comprehensive R Archive Network (CRAN)Links to an external site..
+
+RStudio can be downloaded from https://rstudio.com/products/rstudio/download/Links to an external site.
+
+NOTE: Please download the most recent version.  All the labs in the courses will be done using   RStudio in Windows.
+
+For RStudio, at website (https://rstudio.com/products/rstudio/download/Links to an external site.), scroll down to “Installers for Supported Platforms” near the bottom of the page. Click on the download link corresponding to your computer’s operating system.
