@@ -14,3 +14,6 @@ and hypothesis testing
 • Apply probability and distribution theories to real world data science problems
 
 • Relate multivariate analysis techniques to data science problems
+
+Main Tool
+R statistical software
