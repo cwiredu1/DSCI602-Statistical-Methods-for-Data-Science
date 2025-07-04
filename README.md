@@ -1,4 +1,7 @@
 This course was to provides a solid foundation in basic probability, distribution theory, methods of estimation, hypothesis testing and basics of multivariate analysis for data science and related majors at the graduate level.
+
+Key Focus
+
 • Understand basic probability and statistical concepts and theory
 
 • Identify probability distributions of random variables
